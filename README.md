@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, My name is Alison! 👋
+
+### 🖥️ About me
+
+- 🎒 Currently studying Software Engineer at UNICESUMAR (Universidade Unicesumar, Maringá, PR, Brazil)
 
 <!--
 **alison-luiz/alison-luiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
