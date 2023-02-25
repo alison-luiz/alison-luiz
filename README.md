@@ -3,18 +3,28 @@
 ### 🖥️ About me
 
 - 🎒 Currently studying Software Engineer at UNICESUMAR (Universidade Unicesumar, Maringá, PR, Brazil)
+- 📚 Studying JavaScript and TypeScript.
+- 👨‍💻 In search of opportunities to start my career in the field of software engineering.
 
-<!--
-**alison-luiz/alison-luiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Stack
 
-Here are some ideas to get you started:
+- 🌐 HTML5, CSS3, JavaScript, TypeScript, C/C++
+- 🔨 Visual Studio Code, IntelliJ DEA, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### ⚙ Jobs/Projects
+
+- <a href="https://github.com/alison-luiz?tab=repositories">Repositories
+
+<div>
+<a href="https://github.com/alison-luiz/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alison-luiz&hide=stars&count_private=true&theme=dracula">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alison-luiz&theme=dracula&layout=compact">
+</div> 
+
+<!-- ### 📩 Contact me
+
+<a href="https://discord.gg/">
+  <img height="30em" src="https://user-images.githubusercontent.com/89758128/221381175-1b030c95-0b2c-418b-bd19-662b221fd8e5.png")
+</a>
+
 -->
