@@ -18,7 +18,7 @@
 <div>
 <a href="https://github.com/alison-luiz/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alison-luiz&hide=stars&count_private=true&theme=dracula">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alison-luiz&theme=dracula&layout=compact">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alison-luiz&theme=dracula&layout=compact&count_private=true">
 </div> 
 
 <!-- ### 📩 Contact me
