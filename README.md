@@ -19,12 +19,12 @@
 <a href="https://github.com/alison-luiz/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alison-luiz&hide=stars&count_private=true&theme=dracula">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alison-luiz&theme=dracula&layout=compact&count_private=true">
-</div> 
+</div>
 
-<!-- ### 📩 Contact me
+### 📩 Contact me
 
-<a href="https://discord.gg/">
-  <img height="30em" src="https://user-images.githubusercontent.com/89758128/221381175-1b030c95-0b2c-418b-bd19-662b221fd8e5.png")
-</a>
+<div>
+<a href="https://www.instagram.com/_alisonluiz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alison-luiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 
--->
