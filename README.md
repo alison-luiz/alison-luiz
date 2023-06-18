@@ -2,18 +2,17 @@
 
 ### 🖥️ About me
 
-- 🎒 Currently studying Software Engineer at UNICESUMAR (Universidade Unicesumar, Maringá, PR, Brazil)
-- 📚 Studying JavaScript and TypeScript.
-- 👨‍💻 In search of opportunities to start my career in the field of software engineering.
+- 🎒 Currently studying Software Engineer at UNICESUMAR ([Universidade Unicesumar](https://www.unicesumar.edu.br/home/), Maringá, PR, Brazil)
+- 💡 Learning and applying new technologies to create impactful solutions.
+- 👨‍💻 Working as a backend developer at [Clustervet](https://www.linkedin.com/company/cluster-vet/about/)
 
-### 🛠 Stack
+### 🛠 My Stacks
+![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,cpp,java,mongodb,mysql,nestjs,laravel,php,vue)
 
-- 🌐 HTML5, CSS3, JavaScript, TypeScript, C/C++
-- 🔨 Visual Studio Code, IntelliJ DEA, Git
+![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,vscode,idea,figma,postman)
 
 ### ⚙ Jobs/Projects
-
-- <a href="https://github.com/alison-luiz?tab=repositories">Repositories
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/alison-luiz?tab=repositories)
 
 <div>
 <a href="https://github.com/alison-luiz/">
@@ -22,9 +21,4 @@
 </div>
 
 ### 📩 Contact me
-
-<div>
-<a href="https://www.instagram.com/_alisonluiz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/alison-luiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_alisonluiz_/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alison-luiz/)
