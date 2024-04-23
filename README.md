@@ -4,7 +4,7 @@
 
 - 🎒 Currently studying Software Engineer at UNICESUMAR ([Universidade Unicesumar](https://www.unicesumar.edu.br/home/), Maringá, PR, Brazil)
 - 💡 Learning and applying new technologies to create impactful solutions.
-- 👨‍💻 Working as a backend developer at [Clustervet](https://www.linkedin.com/company/cluster-vet/about/)
+- 👨‍💻 Working as a backend developer at [Yggy](https://www.linkedin.com/company/yggybr/about/)
 
 ### 🛠 My Stacks
 ![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,cpp,java,mongodb,mysql,nestjs,laravel,php,vue)
