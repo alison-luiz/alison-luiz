@@ -4,12 +4,12 @@
 
 - 🎒 Currently studying Software Engineer at UNICESUMAR ([Universidade Unicesumar](https://www.unicesumar.edu.br/home/), Maringá, PR, Brazil)
 - 💡 Learning and applying new technologies to create impactful solutions.
-- 👨‍💻 Working as a developer at [Yggy](https://www.linkedin.com/company/yggybr/about/)
+- 👨‍💻 Working as a developer at [Gazin Tech](https://www.linkedin.com/company/gazin-tech/about/)
 
 ### 🛠 My Stacks
-![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,cpp,java,mongodb,mysql,nestjs,laravel,php,vue)
+![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,java,nodejs,nestjs,laravel,php,vue,react,postgres,mongodb,mysql,rabbitmq)
 
-![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,vscode,idea,figma,postman)
+![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,github,vscode,idea,figma,postman,stackoverflow)
 
 ### ⚙ Jobs/Projects
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/alison-luiz?tab=repositories)
